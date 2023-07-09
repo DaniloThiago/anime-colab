@@ -1,6 +1,9 @@
 # Anime-Colab
 ### Nesse dataset os mostra atores que dublam personagens dos nossos queridos animes, dentre eles temos os animes [Blue Lock](https://www.crunchyroll.com/pt-br/series/G4PH0WEKE/bluelock), [My Dress-Up Darling](https://www.crunchyroll.com/pt-br/series/GQWH0M9N8/my-dress-up-darling), [SPY x FAMILY](https://www.crunchyroll.com/pt-br/series/G4PH0WXVJ/spy-x-family), [Overlord IV](https://www.crunchyroll.com/pt-br/series/G69PZ5PDY/overlord), [Dr. Stone: Ryuusui](https://www.crunchyroll.com/pt-br/series/GYEXQKJG6/dr-stone), entre outros grandes sucessos.
 
+## Links:
+  [Sigma](https://danilothiago.github.io/anime-actor-voice/) e [Streamlit](https://animes.streamlit.app/)
+
 ## Nesse dataset foram separados para a utilização da seguinte forma
 - **Os nós serão**: Os atores que dublam os personagens
 - **As aretas serão**: Os animes em que os atores trabalharam em comum
